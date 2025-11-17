@@ -1,0 +1,248 @@
+{
+    "DSA": [
+        {
+            "Question": "Which data structure is used for implementing recursion?",
+            "Answer": "Option_2",
+            "Option_1": "Queue",
+            "Option_2": "Stack",
+            "Option_3": "Array",
+            "Option_4": "Linked List"
+        },
+        {
+            "Question": "What is the time complexity of binary search on a sorted array?",
+            "Answer": "Option_3",
+            "Option_1": "O(n)",
+            "Option_2": "O(n log n)",
+            "Option_3": "O(log n)",
+            "Option_4": "O(1)"
+        },
+        {
+            "Question": "Which of the following is not a linear data structure?",
+            "Answer": "Option_4",
+            "Option_1": "Array",
+            "Option_2": "Queue",
+            "Option_3": "Stack",
+            "Option_4": "Tree"
+        },
+        {
+            "Question": "What is the best case time complexity of bubble sort?",
+            "Answer": "Option_2",
+            "Option_1": "O(n^2)",
+            "Option_2": "O(n)",
+            "Option_3": "O(log n)",
+            "Option_4": "O(1)"
+        },
+        {
+            "Question": "Which traversal technique is used in a binary search tree to get sorted order of elements?",
+            "Answer": "Option_1",
+            "Option_1": "Inorder",
+            "Option_2": "Preorder",
+            "Option_3": "Postorder",
+            "Option_4": "Level order"
+        },
+        {
+            "Question": "In a max-heap, the largest element is found at which position?",
+            "Answer": "Option_1",
+            "Option_1": "Root",
+            "Option_2": "Leaf",
+            "Option_3": "Middle",
+            "Option_4": "Right child"
+        },
+        {
+            "Question": "Which data structure allows insertion and deletion from both ends?",
+            "Answer": "Option_3",
+            "Option_1": "Queue",
+            "Option_2": "Stack",
+            "Option_3": "Deque",
+            "Option_4": "Tree"
+        },
+        {
+            "Question": "Which algorithm is used to find the shortest path in a graph?",
+            "Answer": "Option_2",
+            "Option_1": "Prim's algorithm",
+            "Option_2": "Dijkstra's algorithm",
+            "Option_3": "Kruskal's algorithm",
+            "Option_4": "Floyd-Warshall"
+        },
+        {
+            "Question": "Which of these is an example of divide and conquer algorithm?",
+            "Answer": "Option_3",
+            "Option_1": "Bubble Sort",
+            "Option_2": "Insertion Sort",
+            "Option_3": "Merge Sort",
+            "Option_4": "Selection Sort"
+        },
+        {
+            "Question": "Which operation is used to delete an element from a stack?",
+            "Answer": "Option_4",
+            "Option_1": "Insert",
+            "Option_2": "Append",
+            "Option_3": "Enqueue",
+            "Option_4": "Pop"
+        }
+    ],
+    "DBMS": [
+        {
+            "Question": "Which of the following is not a type of database model?",
+            "Answer": "Option_3",
+            "Option_1": "Relational",
+            "Option_2": "Hierarchical",
+            "Option_3": "Network Security",
+            "Option_4": "Object-oriented"
+        },
+        {
+            "Question": "Which language is used to define the structure of a database?",
+            "Answer": "Option_1",
+            "Option_1": "DDL",
+            "Option_2": "DML",
+            "Option_3": "DCL",
+            "Option_4": "TCL"
+        },
+        {
+            "Question": "Which SQL clause is used to filter records?",
+            "Answer": "Option_2",
+            "Option_1": "ORDER BY",
+            "Option_2": "WHERE",
+            "Option_3": "GROUP BY",
+            "Option_4": "HAVING"
+        },
+        {
+            "Question": "Which of the following ensures uniqueness in a table column?",
+            "Answer": "Option_1",
+            "Option_1": "Primary Key",
+            "Option_2": "Foreign Key",
+            "Option_3": "Index",
+            "Option_4": "View"
+        },
+        {
+            "Question": "Which normal form eliminates transitive dependency?",
+            "Answer": "Option_3",
+            "Option_1": "1NF",
+            "Option_2": "2NF",
+            "Option_3": "3NF",
+            "Option_4": "BCNF"
+        },
+        {
+            "Question": "Which command is used to remove all records from a table without deleting the table?",
+            "Answer": "Option_2",
+            "Option_1": "DELETE",
+            "Option_2": "TRUNCATE",
+            "Option_3": "DROP",
+            "Option_4": "REMOVE"
+        },
+        {
+            "Question": "Which of these is a DML command?",
+            "Answer": "Option_3",
+            "Option_1": "CREATE",
+            "Option_2": "ALTER",
+            "Option_3": "INSERT",
+            "Option_4": "GRANT"
+        },
+        {
+            "Question": "A foreign key in one table refers to what in another table?",
+            "Answer": "Option_1",
+            "Option_1": "Primary key",
+            "Option_2": "Candidate key",
+            "Option_3": "Super key",
+            "Option_4": "Unique key"
+        },
+        {
+            "Question": "Which of these commands is used to grant privileges in SQL?",
+            "Answer": "Option_3",
+            "Option_1": "GRANT TO",
+            "Option_2": "ASSIGN",
+            "Option_3": "GRANT",
+            "Option_4": "PERMIT"
+        },
+        {
+            "Question": "Which of these is a property of a transaction in DBMS?",
+            "Answer": "Option_4",
+            "Option_1": "Reliability",
+            "Option_2": "Concurrency",
+            "Option_3": "Durability only",
+            "Option_4": "Atomicity"
+        }
+    ],
+    "Python": [
+        {
+            "Question": "What is the output of print(type([]))?",
+            "Answer": "Option_3",
+            "Option_1": "<class 'tuple'>",
+            "Option_2": "<class 'set'>",
+            "Option_3": "<class 'list'>",
+            "Option_4": "<class 'dict'>"
+        },
+        {
+            "Question": "Which keyword is used to define a function in Python?",
+            "Answer": "Option_1",
+            "Option_1": "def",
+            "Option_2": "function",
+            "Option_3": "lambda",
+            "Option_4": "define"
+        },
+        {
+            "Question": "What will be the output of print(2 ** 3)?",
+            "Answer": "Option_4",
+            "Option_1": "5",
+            "Option_2": "6",
+            "Option_3": "7",
+            "Option_4": "8"
+        },
+        {
+            "Question": "Which of the following is immutable?",
+            "Answer": "Option_3",
+            "Option_1": "List",
+            "Option_2": "Set",
+            "Option_3": "Tuple",
+            "Option_4": "Dictionary"
+        },
+        {
+            "Question": "Which module in Python supports regular expressions?",
+            "Answer": "Option_2",
+            "Option_1": "regex",
+            "Option_2": "re",
+            "Option_3": "pyregex",
+            "Option_4": "match"
+        },
+        {
+            "Question": "What is the output of bool(0)?",
+            "Answer": "Option_1",
+            "Option_1": "False",
+            "Option_2": "True",
+            "Option_3": "None",
+            "Option_4": "0"
+        },
+        {
+            "Question": "Which of the following statements is true about Python?",
+            "Answer": "Option_2",
+            "Option_1": "It is a low-level language",
+            "Option_2": "It is an interpreted language",
+            "Option_3": "It is compiled only",
+            "Option_4": "It cannot run on multiple platforms"
+        },
+        {
+            "Question": "Which method is used to add an element to a list?",
+            "Answer": "Option_3",
+            "Option_1": "insert()",
+            "Option_2": "extend()",
+            "Option_3": "append()",
+            "Option_4": "add()"
+        },
+        {
+            "Question": "What will be the output of print('Hello' * 2)?",
+            "Answer": "Option_4",
+            "Option_1": "Error",
+            "Option_2": "Hello",
+            "Option_3": "2Hello",
+            "Option_4": "HelloHello"
+        },
+        {
+            "Question": "Which keyword is used for exception handling in Python?",
+            "Answer": "Option_1",
+            "Option_1": "try",
+            "Option_2": "error",
+            "Option_3": "catch",
+            "Option_4": "excepts"
+        }
+    ]
+}
