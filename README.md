@@ -1,5 +1,5 @@
-# assignment-3
-Assignment 3 of Training and Placement. Improvement over the previous management system with quiz features.
+# assignment-4
+Assignment 4 of Training and Placement. Uses MySQL for storing data.
 
 ### Features
 - Registration functionality (Atleast 10 fields for data)
@@ -7,10 +7,10 @@ Assignment 3 of Training and Placement. Improvement over the previous management
 - Show/Update profile
 - Quizes
 - Admin Profile (Password is Hardcoded)
-- Persistent storage (using Pickle)
+- Persistent storage (using MySQL) (To be implemented)
 - Menu Based Navigation
 
-### New Feature: Quizes
+### Quiz Feature
 
 - After logging-in to the program, students can take quizes for any three subjects (DSA, DBMS or Python)
 - Questions are fetched from `questionaire.json` and randomly asked.
